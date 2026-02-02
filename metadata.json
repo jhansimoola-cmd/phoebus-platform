@@ -1,0 +1,8 @@
+{
+  "name": "AuraAgent: Agentic AI Orchestrator",
+  "description": "A high-performance low-code platform for building, orchestrating, and deploying agentic AI chatbots with tool integration, CRM connectivity, and multi-agent management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
